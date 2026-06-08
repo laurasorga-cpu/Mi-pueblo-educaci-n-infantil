@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606082001189O0QPD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608200118AIB1KL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mi pueblo en blanco y negro</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Laura Sorga</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780936294367</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780936885897-7vobyf00x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 1: Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 1: Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780936885897-7vobyf00x</odePageId>
+      <odeBlockId>block-1780936887980-ibu2h5j8c</odeBlockId>
+      <blockName>Ficha técnica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936885897-7vobyf00x</odePageId>
+          <odeBlockId>block-1780936887980-ibu2h5j8c</odeBlockId>
+          <odeIdeviceId>idevice-1780936887978-aa62do94g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nivel: 3.º Nivel del 2.º Ciclo de Educación Infantil (5 años).<br />Temporalización: Del 10 al 27 de Septiembre.<br />Áreas: Propuesta globalizada que incluye Crecimiento en Armonía, Descubrimiento y Exploración del Entorno, y Comunicación y Representación de la Realidad.<br />Idioma: Castellano con apoyo en LSE y canciones en Inglés.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780936887978-aa62do94g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nivel: 3.º Nivel del 2.º Ciclo de Educación Infantil (5 años).<br />Temporalización: Del 10 al 27 de Septiembre.<br />Áreas: Propuesta globalizada que incluye Crecimiento en Armonía, Descubrimiento y Exploración del Entorno, y Comunicación y Representación de la Realidad.<br />Idioma: Castellano con apoyo en LSE y canciones en Inglés.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780936885897-7vobyf00x</odePageId>
+      <odeBlockId>block-1780936923813-xaj92i9zw</odeBlockId>
+      <blockName>Centro de interés</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936885897-7vobyf00x</odePageId>
+          <odeBlockId>block-1780936923813-xaj92i9zw</odeBlockId>
+          <odeIdeviceId>idevice-1780936923812-6cnsbptzf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestro centro de interés es la población de La Rinconada, lugar en el que vivimos. Nos centramos en su evolución histórica y social. Partiendo de un misterio inicial (la caja de fotos antiguas del pueblo), los niños y niñas se convertirán en investigadores de su propio entorno para descubrir la evolución histórica y cultural de La Rinconada.</p>
+<p>Se alterna el uso de herramientas como la Inteligencia Artificial para la creación musical y la robótica con Bee-bot, con actividades sensoriales y manipulativas en "rincones locales", buscando que el alumnado conecte emocionalmente con su patrimonio:</p>
+<p>1. Lugares emblemáticos y calles históricas.<br />2. Personas y oficios que dan vida al pueblo.<br />3. Monumentos: Cerro Macareno e Iglesia local.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780936923812-6cnsbptzf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestro centro de interés es la población de La Rinconada, lugar en el que vivimos. Nos centramos en su evolución histórica y social. Partiendo de un misterio inicial (la caja de fotos antiguas del pueblo), los niños y niñas se convertirán en investigadores de su propio entorno para descubrir la evolución histórica y cultural de La Rinconada.</p>\n<p>Se alterna el uso de herramientas como la Inteligencia Artificial para la creación musical y la robótica con Bee-bot, con actividades sensoriales y manipulativas en \"rincones locales\", buscando que el alumnado conecte emocionalmente con su patrimonio:</p>\n<p>1. Lugares emblemáticos y calles históricas.<br />2. Personas y oficios que dan vida al pueblo.<br />3. Monumentos: Cerro Macareno e Iglesia local.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780936885897-7vobyf00x</odePageId>
+      <odeBlockId>block-1780936975213-k57916plv</odeBlockId>
+      <blockName>Misterio de Isabel</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936885897-7vobyf00x</odePageId>
+          <odeBlockId>block-1780936975213-k57916plv</odeBlockId>
+          <odeIdeviceId>idevice-1780936975211-v9y82tbu8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola, niños y niñas! Me llamo Isabel y os quiero contar algo increíble que me ha pasado. El otro día, mientras jugaba en casa de mi abuela, abrí un cajón antiguo... y dentro encontré una caja llena de fotos. Eran fotos muy viejas, de calles, plazas y rincones de nuestro pueblo que parecían diferentes... ¿Me ayudáis a descubrir dónde estaban esas fotos? ¡Juntos podemos desvelar este enigma!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780936975211-v9y82tbu8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola, niños y niñas! Me llamo Isabel y os quiero contar algo increíble que me ha pasado. El otro día, mientras jugaba en casa de mi abuela, abrí un cajón antiguo... y dentro encontré una caja llena de fotos. Eran fotos muy viejas, de calles, plazas y rincones de nuestro pueblo que parecían diferentes... ¿Me ayudáis a descubrir dónde estaban esas fotos? ¡Juntos podemos desvelar este enigma!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780936998030-g10o12aes</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 2: Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 2: Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780936998030-g10o12aes</odePageId>
+      <odeBlockId>block-1780937003013-n8u3v2hco</odeBlockId>
+      <blockName>Concreción curricular y criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936998030-g10o12aes</odePageId>
+          <odeBlockId>block-1780937003013-n8u3v2hco</odeBlockId>
+          <odeIdeviceId>idevice-1780937003012-z2k86yueo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Área Crecimiento en Armonía (CA) - Criterio 4.1: Participar con iniciativa en juegos y actividades colectivas relacionándose con otras personas con actitudes de afecto y empatía, respetando los distintos ritmos individuales y favoreciendo la inclusión y la cohesión de grupo.<br />Área Comunicación y Representación de la Realidad (CRR) - Competencia específica nº 3 / Criterio 3.2: Utilizar el lenguaje oral como instrumento regulador de la acción en las interacciones con los demás con seguridad y confianza.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937003012-z2k86yueo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Área Crecimiento en Armonía (CA) - Criterio 4.1: Participar con iniciativa en juegos y actividades colectivas relacionándose con otras personas con actitudes de afecto y empatía, respetando los distintos ritmos individuales y favoreciendo la inclusión y la cohesión de grupo.<br />Área Comunicación y Representación de la Realidad (CRR) - Competencia específica nº 3 / Criterio 3.2: Utilizar el lenguaje oral como instrumento regulador de la acción en las interacciones con los demás con seguridad y confianza.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780936998030-g10o12aes</odePageId>
+      <odeBlockId>block-1780937039812-g2q3zeadt</odeBlockId>
+      <blockName>Rutina de pensamiento</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936998030-g10o12aes</odePageId>
+          <odeBlockId>block-1780937039812-g2q3zeadt</odeBlockId>
+          <odeIdeviceId>idevice-1780937039811-fbe2mnwmf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Unidad Didáctica nace de las conclusiones obtenidas en la Rutina de Pensamiento. En ella se observó que el alumnado muestra una gran motivación ante estímulos visuales y tecnológicos, pero que estos pueden derivar en sobreexcitación.</p>
+<p>Por tanto, la presente SdA ha sido diseñada para aprovechar ese interés tecnológico (uso de IA y robótica con Bee-bot) pero integrando siempre guías claras de actuación, señales visuales para los turnos y alternando momentos de diálogo con la manipulación física (como el rincón local o el trabajo con arena). De este modo, transformamos la sobreestimulación en un aprendizaje significativo y regulado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937039811-fbe2mnwmf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Unidad Didáctica nace de las conclusiones obtenidas en la Rutina de Pensamiento. En ella se observó que el alumnado muestra una gran motivación ante estímulos visuales y tecnológicos, pero que estos pueden derivar en sobreexcitación.</p>\n<p>Por tanto, la presente SdA ha sido diseñada para aprovechar ese interés tecnológico (uso de IA y robótica con Bee-bot) pero integrando siempre guías claras de actuación, señales visuales para los turnos y alternando momentos de diálogo con la manipulación física (como el rincón local o el trabajo con arena). De este modo, transformamos la sobreestimulación en un aprendizaje significativo y regulado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780936998030-g10o12aes</odePageId>
+      <odeBlockId>block-1780937084997-z4tt9hr28</odeBlockId>
+      <blockName>Atención a la diversidad y medidas DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936998030-g10o12aes</odePageId>
+          <odeBlockId>block-1780937084997-z4tt9hr28</odeBlockId>
+          <odeIdeviceId>idevice-1780937084995-0137mu3ck</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Alumna con NEAE (TEA): Se potencia su desarrollo comunicativo en la asamblea mediante apoyos visuales y el establecimiento de su agenda diaria. Para la excursión por el pueblo, se diseña un anticipador colgado y una historia social trabajada previamente en clase para evitar la ansiedad por el cambio de rutinas.</p>
+<p>Gestión del aula: Se organizan equipos base para el aprendizaje cooperativo, favoreciendo la liberación de dopamina, reduciendo la ansiedad y mejorando la convivencia mediante el uso regular del cariñograma (buzón de agradecimientos y disculpas).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937084995-0137mu3ck","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Alumna con NEAE (TEA): Se potencia su desarrollo comunicativo en la asamblea mediante apoyos visuales y el establecimiento de su agenda diaria. Para la excursión por el pueblo, se diseña un anticipador colgado y una historia social trabajada previamente en clase para evitar la ansiedad por el cambio de rutinas.</p>\n<p>Gestión del aula: Se organizan equipos base para el aprendizaje cooperativo, favoreciendo la liberación de dopamina, reduciendo la ansiedad y mejorando la convivencia mediante el uso regular del cariñograma (buzón de agradecimientos y disculpas).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937119764-qggc2qqai</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 3: Nuestro Reto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 3: Nuestro Reto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937119764-qggc2qqai</odePageId>
+      <odeBlockId>block-1780937128097-bsdp38gc5</odeBlockId>
+      <blockName>Mural del antes y el después</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937119764-qggc2qqai</odePageId>
+          <odeBlockId>block-1780937128097-bsdp38gc5</odeBlockId>
+          <odeIdeviceId>idevice-1780937128095-qzfz607lg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de nuestra aventura será la creación cooperativa de un gran mural interactivo en el aula. En él plasmaremos todo lo descubierto:</p>
+<p>1. Fotografías antiguas y actuales de La Rinconada pegadas por parejas (el antes y el después).<br />2. Elementos naturales e históricos recogidos en el entorno (hojas, flores del parque, folletos del museo y la programación del teatro).<br />3. Nuestros propios dibujos artísticos y el Tren de las Ideas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937128095-qzfz607lg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de nuestra aventura será la creación cooperativa de un gran mural interactivo en el aula. En él plasmaremos todo lo descubierto:</p>\n<p>1. Fotografías antiguas y actuales de La Rinconada pegadas por parejas (el antes y el después).<br />2. Elementos naturales e históricos recogidos en el entorno (hojas, flores del parque, folletos del museo y la programación del teatro).<br />3. Nuestros propios dibujos artísticos y el Tren de las Ideas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780937119764-qggc2qqai</odePageId>
+      <odeBlockId>block-1780937157947-3y528kt52</odeBlockId>
+      <blockName>Exposición: somos guías de museo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937119764-qggc2qqai</odePageId>
+          <odeBlockId>block-1780937157947-3y528kt52</odeBlockId>
+          <odeIdeviceId>idevice-1780937157946-vthosh90s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez terminado el mural, abriremos las puertas de nuestra aula a las demás clases del colegio. Los niños y niñas se convertirán en auténticos guías de museo, utilizando el lenguaje oral para explicarles a los compañeros mayores cómo investigamos y qué secretos esconde la historia de nuestro pueblo. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937157946-vthosh90s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez terminado el mural, abriremos las puertas de nuestra aula a las demás clases del colegio. Los niños y niñas se convertirán en auténticos guías de museo, utilizando el lenguaje oral para explicarles a los compañeros mayores cómo investigamos y qué secretos esconde la historia de nuestro pueblo. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937189647-3jiwpqy37</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 4: Línea Temporal del Proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 4: Línea Temporal del Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937189647-3jiwpqy37</odePageId>
+      <odeBlockId>block-1780937350698-9q7ttonmo</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937189647-3jiwpqy37</odePageId>
+          <odeBlockId>block-1780937350698-9q7ttonmo</odeBlockId>
+          <odeIdeviceId>idevice-1780937350696-td995hq6m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/ri4qqm2ds6yseev" title="Línea temporal">https://canva.link/ri4qqm2ds6yseev</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937350696-td995hq6m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/ri4qqm2ds6yseev\" title=\"Línea temporal\">https://canva.link/ri4qqm2ds6yseev</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780937189647-3jiwpqy37</odePageId>
+      <odeBlockId>block-1780937772466-isa9vl9js</odeBlockId>
+      <blockName>Línea Temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937189647-3jiwpqy37</odePageId>
+          <odeBlockId>block-1780937772466-isa9vl9js</odeBlockId>
+          <odeIdeviceId>idevice-1780937772465-dqa0re3iq</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780937772465-dqa0re3iq" title="" href="{{context_path}}/content/resources/Mi pueblo en blanco y negro.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Mi pueblo en blanco y negro.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937772465-dqa0re3iq","img_0":{"img":"{{context_path}}/content/resources/Mi pueblo en blanco y negro.png","thumbnail":"{{context_path}}/content/resources/Mi pueblo en blanco y negro.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937423767-90va09c0k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 5: El Rincón del Detective</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 5: El Rincón del Detective</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937423767-90va09c0k</odePageId>
+      <odeBlockId>block-1780937671384-2atf81srm</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937423767-90va09c0k</odePageId>
+          <odeBlockId>block-1780937671384-2atf81srm</odeBlockId>
+          <odeIdeviceId>idevice-1780937671382-sow9ovqhp</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/laurasorga/mi-padlet-deslumbrante-q6hxts3zimug9d0" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780937423767-90va09c0k</odePageId>
+      <odeBlockId>block-1780938324986-thmbnb0d6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937423767-90va09c0k</odePageId>
+          <odeBlockId>block-1780938324986-thmbnb0d6</odeBlockId>
+          <odeIdeviceId>idevice-1780938324986-lfnjacv09</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAB6fi4VEAA42ASha3EA==" title="">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780938324986-lfnjacv09","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAB6fi4VEAA42ASha3EA==\" title=\"\">Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937439850-w8q44y63o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 6: Mis Derechos en la Red</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 6: Mis Derechos en la Red</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937439850-w8q44y63o</odePageId>
+      <odeBlockId>block-1780937887250-0djpewunm</odeBlockId>
+      <blockName>Mis derechos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937439850-w8q44y63o</odePageId>
+          <odeBlockId>block-1780937887250-0djpewunm</odeBlockId>
+          <odeIdeviceId>idevice-1780937887249-zsxqnw5ou</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780937887249-zsxqnw5ou" title="" href="{{context_path}}/content/resources/Infografía competencia digital.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía competencia digital.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937887249-zsxqnw5ou","img_0":{"img":"{{context_path}}/content/resources/Infografía competencia digital.png","thumbnail":"{{context_path}}/content/resources/Infografía competencia digital.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937449033-lpwjbqs6k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 7: ¿Cómo nos evaluamos?</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 7: ¿Cómo nos evaluamos?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937449033-lpwjbqs6k</odePageId>
+      <odeBlockId>block-1780937941919-fpkpa5h5s</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937449033-lpwjbqs6k</odePageId>
+          <odeBlockId>block-1780937941919-fpkpa5h5s</odeBlockId>
+          <odeIdeviceId>idevice-1780937941917-kykrm4zif</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>INSTRUMENTO 1: REGISTRO ANECDÓTICO<br />1. ¿Qué evalúa?: La expresión oral, la creatividad y la resolución de conflictos en la asamblea al crear la canción con IA y buscar las rimas (teatro/retrato, carnaval/animal).<br />2. ¿Cuándo se usa?: Durante las sesiones de la Fase de Explorar, en la asamblea de aula.<br />3. ¿Cómo se obtienen y analizan los datos?: La maestra anota en una ficha individual aquellos comentarios o interacciones más significativos del alumnado (quién propone rimas, quién respeta el turno). Estos datos sirven para detectar si los problemas de convivencia bloquean la participación y para aplicar dinámicas de cohesión.<br />4. Gestión de variables (Alumna NEAE): Con la alumna con TEA, la variable del lenguaje se trata utilizando el andamiaje de apoyos visuales (pictogramas y fotos reales), registrando su iniciativa comunicativa a través de estas herramientas.<br /></p>
+<p>INSTRUMENTO 2: RÚBRICA <br /><br /></p>
+<p>1. ¿Qué evalúa?: El pensamiento lógico-matemático, la orientación espacial (delante/atrás) y el conteo de pasos mediante la programación del robot. También mide de forma transversal la inclusión y el trabajo en equipo.<br />2. ¿Cuándo se usa?: Durante el desarrollo de los talleres matemáticos con el tapete de La Rinconada y la abejita Bee-Bot.<br />3. ¿Cómo se obtienen y analizan los datos?: Al final de la sesión, la maestra marca el nivel de logro de cada alumno (del 1 al 4) según lo observado. Estos datos se vuelcan en Séneca y sirven para saber si el grupo necesita más actividades vivenciales (corporales) antes de pasar al plano abstracto.<br />4. Gestión de variables (Conflictos de aula): Para evitar los problemas de convivencia o disputas por el robot, se asignan roles cooperativos fijos dentro de cada equipo base (ej. uno programa, otro coloca la abeja, otro cuenta los pasos).<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937941917-kykrm4zif","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>INSTRUMENTO 1: REGISTRO ANECDÓTICO<br />1. ¿Qué evalúa?: La expresión oral, la creatividad y la resolución de conflictos en la asamblea al crear la canción con IA y buscar las rimas (teatro/retrato, carnaval/animal).<br />2. ¿Cuándo se usa?: Durante las sesiones de la Fase de Explorar, en la asamblea de aula.<br />3. ¿Cómo se obtienen y analizan los datos?: La maestra anota en una ficha individual aquellos comentarios o interacciones más significativos del alumnado (quién propone rimas, quién respeta el turno). Estos datos sirven para detectar si los problemas de convivencia bloquean la participación y para aplicar dinámicas de cohesión.<br />4. Gestión de variables (Alumna NEAE): Con la alumna con TEA, la variable del lenguaje se trata utilizando el andamiaje de apoyos visuales (pictogramas y fotos reales), registrando su iniciativa comunicativa a través de estas herramientas.<br /></p>\n<p>INSTRUMENTO 2: RÚBRICA <br /><br /></p>\n<p>1. ¿Qué evalúa?: El pensamiento lógico-matemático, la orientación espacial (delante/atrás) y el conteo de pasos mediante la programación del robot. También mide de forma transversal la inclusión y el trabajo en equipo.<br />2. ¿Cuándo se usa?: Durante el desarrollo de los talleres matemáticos con el tapete de La Rinconada y la abejita Bee-Bot.<br />3. ¿Cómo se obtienen y analizan los datos?: Al final de la sesión, la maestra marca el nivel de logro de cada alumno (del 1 al 4) según lo observado. Estos datos se vuelcan en Séneca y sirven para saber si el grupo necesita más actividades vivenciales (corporales) antes de pasar al plano abstracto.<br />4. Gestión de variables (Conflictos de aula): Para evitar los problemas de convivencia o disputas por el robot, se asignan roles cooperativos fijos dentro de cada equipo base (ej. uno programa, otro coloca la abeja, otro cuenta los pasos).<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937461384-6c6lnaz6x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo 8: Créditos y Descarga</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo 8: Créditos y Descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937461384-6c6lnaz6x</odePageId>
+      <odeBlockId>block-1780938021671-fyrawpzey</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937461384-6c6lnaz6x</odePageId>
+          <odeBlockId>block-1780938021671-fyrawpzey</odeBlockId>
+          <odeIdeviceId>idevice-1780938021669-af0a64n7g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Autoría: Laura Sorga Diáñez</p>
+<p>- Descripción: Recurso Educativo Abierto (REA) interactivo para el desarrollo de la SdA "¡Mi pueblo en blanco y negro!" en Educación Infantil.</p>
+<p>- Licencia de uso: Reconocimiento-NoComercial-CompartirIgual (CC BY-NC-SA)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780938021669-af0a64n7g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Autoría: Laura Sorga Diáñez</p>\n<p>- Descripción: Recurso Educativo Abierto (REA) interactivo para el desarrollo de la SdA \"¡Mi pueblo en blanco y negro!\" en Educación Infantil.</p>\n<p>- Licencia de uso: Reconocimiento-NoComercial-CompartirIgual (CC BY-NC-SA)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780937461384-6c6lnaz6x</odePageId>
+      <odeBlockId>block-1780938101471-dembgjwnv</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937461384-6c6lnaz6x</odePageId>
+          <odeBlockId>block-1780938101471-dembgjwnv</odeBlockId>
+          <odeIdeviceId>idevice-1780938101469-y1thk3l1f</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Mi pueblo en blanco y negro</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">
+<p><span class="exe-prop-description">-</span></p>
+</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Laura Sorga</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
